@@ -1,0 +1,104 @@
+Company name: TINKOFF
+Profession: Java Team Lead 
+Publicated date: 16 марта
+
+Company name: Тетрика
+Profession: Backend Teamlead
+Publicated date: 19 марта
+
+Company name: ИП Годович Елена Геннадьевна
+Profession: Python + Java бэкэнд разработчик
+Publicated date: 19 марта
+
+Company name: VK
+Profession: Python Developer в команду сервисов данных Почты
+Publicated date: 19 марта
+
+Company name: Geekfactor
+Profession: Middle+/Senior Python developer
+Publicated date: 19 марта
+
+Company name: RAROS
+Profession: Backend Python Developer Middle
+Publicated date: 19 марта
+
+Company name: ГК «МЕДСИ»
+Profession: Ведущий Python разработчик
+Publicated date: 18 марта
+
+Company name: Главный радиочастотный центр
+Profession: Middle Python разработчик
+Publicated date: 18 марта
+
+Company name: Бристоль
+Profession: Senior Python Developer
+Publicated date: 18 марта
+
+Company name: Банк России
+Profession: Go-разработчик
+Publicated date: 18 марта
+
+Company name: JetLend
+Profession: Backend Developer (Middle/Senior)
+Publicated date: 18 марта
+
+Company name: Холдинг Т1
+Profession: Разработчик PIX BI
+Publicated date: 18 марта
+
+Company name: Альфа-Банк
+Profession: Риск-технолог
+Publicated date: 18 марта
+
+Company name: .White Code
+Profession: Python developer (Senior)
+Publicated date: 18 марта
+
+Company name: СберТех
+Profession: Python разработчик в отдел кибербезопасности
+Publicated date: 18 марта
+
+Company name: Самолет
+Profession: Kafka Engineer
+Publicated date: 18 марта
+
+Company name: 2GIS
+Profession: Middle Python/Golang-разработчик в cервис транспорта
+Publicated date: 18 марта
+
+Company name: YADRO
+Profession: Senior Python Developer
+Publicated date: 18 марта
+
+Company name: YADRO
+Profession: Python Developer (RTL generators)
+Publicated date: 18 марта
+
+Company name: TINKOFF
+Profession: Руководитель группы разработки (Team Lead)
+Publicated date: 18 марта
+
+Company name: Самолет
+Profession: Senior Python (Django) Developer
+Publicated date: 17 марта
+
+Company name: Яндекс
+Profession: Разработчик С++ контент-системы в Карты
+Publicated date: 17 марта
+
+Company name: Самолет
+Profession: Senior Python (Django) Developer
+Publicated date: 17 марта
+
+Company name: Группа Астра
+Profession: Системный разработчик отдела разработки клиентской части (VDI)
+Publicated date: 17 марта
+
+Company name: Самолет
+Profession: Senior Python (Django) разработчик
+Publicated date: 16 марта
+
+Company name: TINKOFF
+Profession: Java Team Lead 
+Publicated date: 16 марта
+
